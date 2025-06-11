@@ -23,9 +23,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash" title="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure" title="Azure"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" height="30" alt="Cisco" title="Cisco"/>
+</p>
+
+---
+
+### 🔍 Security Tools I Use
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Splunk-000?logo=splunk&logoColor=white&style=for-the-badge" alt="Splunk"/>
+  <img src="https://img.shields.io/badge/-ELK Stack-005571?logo=elastic&logoColor=white&style=for-the-badge" alt="ELK"/>
+  <img src="https://img.shields.io/badge/-Wazuh-026cdf?style=for-the-badge" alt="Wazuh"/>
+  <img src="https://img.shields.io/badge/-Wireshark-1679a7?logo=wireshark&logoColor=white&style=for-the-badge" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/-Graylog-3b3c36?logo=graylog&logoColor=white&style=for-the-badge" alt="Graylog"/>
+  <img src="https://img.shields.io/badge/-Kibana-E8488B?logo=kibana&logoColor=white&style=for-the-badge" alt="Kibana"/>
+  <img src="https://img.shields.io/badge/-Security Onion-3d3d3d?style=for-the-badge" alt="Security Onion"/>
 </p>
 
 ---
