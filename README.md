@@ -1,54 +1,51 @@
-<h2 align="left">Hi 👋! My name is Ahmed Eltras and I'm a Security Analyst from Egypt 🇪🇬</h2>
+<h2 align="center">👋 Hey there! I'm Ahmed Eltras</h2>
 
-🔐 Security Analyst with a passion for analyzing threats, identifying vulnerabilities, and helping organizations stay secure.  
-💡 Skilled in monitoring, incident response, threat hunting, and cybersecurity best practices.  
-🐧 Linux enthusiast | 🐍 Python scripter | ⚙️ Always learning and adapting in the ever-evolving security landscape.
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xBiaz&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xBiaz&layout=compact&theme=radical" height="150" />
-</div>
+<p align="center">
+  🔐 <strong>Security Analyst</strong> from Egypt 🇪🇬 <br>
+  🎯 Focused on threat analysis, SIEM, incident response & blue teaming. <br>
+  🐧 Linux user | 🐍 Python lover | 🧠 Constant learner. <br>
+</p>
 
 ---
 
-<img align="right" height="150" src="https://i.imgur.com/IbZ6l7k.gif" />
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xBiaz&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xBiaz&layout=compact&theme=radical&hide_border=true" height="165" />
+</p>
 
 ---
 
-### 🛠️ Tools & Technologies
+### ⚙️ Tech Stack & Tools
 
-<div align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
-  <img width="10" />
   <img src="https://img.icons8.com/color/48/000000/wireshark.png" height="30" alt="Wireshark" />
-  <img width="10" />
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-kali-linux-operating-system-flatart-icons-outline-flatarticons.png" height="30" alt="Kali Linux" />
-</div>
+  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-kali-linux-operating-system-flatart-icons-outline-flatarticons.png" height="30" alt="Kali" />
+  <img src="https://img.icons8.com/fluency/48/000000/nmap.png" height="30" alt="Nmap" />
+</p>
 
 ---
 
-### 📬 Contact Me
+### 📬 Connect with Me
 
-<div align="left">
+<p align="center">
   <a href="mailto:ahmedeltras10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://x.com/ahmedeltras_">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X" />
   </a>
-</div>
+</p>
 
 ---
 
-### 🐍 Snake eating my contributions graph
+### 🐍 Contribution Snake
 
-<img src="https://github.com/0xBiaz/0xBiaz/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+<p align="center">
+  <img src="https://github.com/0xBiaz/0xBiaz/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
